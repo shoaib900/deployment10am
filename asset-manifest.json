@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/deployment10am/static/js/main.db114853.js",
+    "static/js/787.8bc94f80.chunk.js": "/deployment10am/static/js/787.8bc94f80.chunk.js",
+    "index.html": "/deployment10am/index.html",
+    "main.db114853.js.map": "/deployment10am/static/js/main.db114853.js.map",
+    "787.8bc94f80.chunk.js.map": "/deployment10am/static/js/787.8bc94f80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db114853.js"
+  ]
+}
